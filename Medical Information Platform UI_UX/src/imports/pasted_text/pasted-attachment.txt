@@ -1,0 +1,247 @@
+DESIGN STYLE
+
+Theme: Clean Medical / Clinical SaaS
+
+Color palette:
+Primary: Medical Blue #1E88E5
+Secondary: Teal #26A69A
+Background: #F5F7FA
+Text: #263238
+Success: #43A047
+Warning: #FB8C00
+Error: #E53935
+
+Typography:
+Headings: Inter Bold
+Body: Inter Regular
+
+UI Style:
+
+Rounded cards
+
+Soft shadows
+
+Clean dashboards
+
+Medical SaaS interface
+
+High accessibility contrast
+
+Minimal and professional
+
+Layout:
+
+Left sidebar navigation
+
+Top navigation bar
+
+Dashboard widgets
+
+Card-based UI
+
+Spacing system:
+
+8px grid
+
+Responsive design:
+
+Desktop
+
+Tablet
+
+Mobile
+
+DESIGN SYSTEM (CREATE COMPONENTS)
+
+Create reusable components:
+
+Buttons:
+
+Primary
+
+Secondary
+
+Outline
+
+Icon button
+
+Forms:
+
+Text input
+
+Dropdown
+
+Date picker
+
+File upload
+
+Navigation:
+
+Sidebar
+
+Top navbar
+
+Breadcrumbs
+
+Cards:
+
+Doctor card
+
+Patient card
+
+Appointment card
+
+Analytics card
+
+Tables:
+
+Patient list table
+
+Appointment list
+
+Payment history
+
+Charts:
+
+Revenue chart
+
+Appointment analytics
+
+No-show statistics
+
+Status elements:
+
+Alerts
+
+Notifications
+
+Badges
+
+Tooltips
+
+Calendar component:
+
+Day / Week / Month view
+
+Modal windows:
+
+Booking modal
+
+Payment modal
+
+Confirmation modal
+
+CREATE 20 UI PAGES
+PUBLIC PAGES
+
+1️⃣ Landing Page
+Medical platform introduction with hero section and search for doctors.
+
+2️⃣ Doctor Search Page
+Search doctors by specialty, location, availability.
+
+3️⃣ Doctor Profile Page
+Doctor details, schedule, ratings, book appointment.
+
+4️⃣ Appointment Booking Page
+Calendar slot selection.
+
+5️⃣ Patient Registration Page
+
+6️⃣ Patient Login Page
+
+PATIENT PORTAL
+
+7️⃣ Patient Dashboard
+Upcoming appointments, notifications.
+
+8️⃣ My Appointments Page
+
+9️⃣ Medical History Page
+
+10️⃣ Prescriptions & Documents Page
+
+11️⃣ Payments & Invoices Page
+
+DOCTOR DASHBOARD
+
+12️⃣ Doctor Dashboard Overview
+KPIs: revenue, patients, appointments, AI alerts.
+
+13️⃣ Doctor Calendar Page
+Daily schedule and appointments.
+
+14️⃣ Patient Management Page
+List of patients.
+
+15️⃣ Patient Medical Record Page
+Medical history, allergies, notes.
+
+16️⃣ Consultation Interface
+Doctor consultation notes + prescription generator.
+
+ADMIN / SYSTEM
+
+17️⃣ AI Prediction Dashboard
+No-show predictions, scheduling suggestions.
+
+18️⃣ Financial Analytics Page
+Revenue charts, payments via Stripe.
+
+19️⃣ Notification & Reminder System
+SMS/email reminders interface.
+
+20️⃣ Settings & Security Page
+User roles, authentication, permissions.
+
+INTERACTIVE PROTOTYPE
+
+Create clickable prototype interactions:
+
+User Flow 1:
+Patient books appointment
+Search doctor → choose slot → payment → confirmation.
+
+User Flow 2:
+Doctor consultation
+Dashboard → open patient → write consultation → generate prescription.
+
+User Flow 3:
+AI scheduling suggestion
+AI dashboard → show prediction → accept or reject optimization.
+
+Add micro interactions:
+
+hover states
+
+button animations
+
+modal transitions
+
+loading skeleton screens
+
+UX REQUIREMENTS
+
+Focus on:
+
+fast navigation
+
+minimal clicks for doctors
+
+clear medical data hierarchy
+
+accessibility WCAG compliance
+
+Doctors must access patient data within 2 clicks.
+
+Use clean medical SaaS interface similar to Doctolib or Stripe dashboards.
+
+OUTPUT EXPECTED FROM FIGMA
+
+Generate:
+
+• Complete Design System Page
+• 20 UI screens
+• Responsive layouts
+• Reusable components
+• Interactive prototype links
